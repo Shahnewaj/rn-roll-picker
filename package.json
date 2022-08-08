@@ -1,0 +1,8 @@
+{
+  "name": "rn-roll-picker",
+  "version": "1.0.0",
+  "description": "A cross-platform (iOS&Android), selector/picker component for React Native.",
+  "main": "index.js",
+  "author": "Shahnewaj",
+  "license": "MIT"
+}
